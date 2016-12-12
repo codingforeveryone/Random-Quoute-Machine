@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,500);
+
+.well {
+  margin: 10% auto auto auto;
+  width: 500px;
+  padding: 50px 60px;
+  background-color:white;
+  
+}
+
+body {
+background: #517fa4; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #517fa4 , #243949); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #517fa4 , #243949); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
+  font-family: 'Raleway', sans-serif;
+  font-weight:100px;
+
+ }
+
+.btn-transparent{
+  float: right;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  background-color: transparent;    
+}
+
+#tweet-quote {
+  float: left;
+  margin-top: 70px;
+  margin-bottom: 5px;
+}
+
+.author {
+  float: right;
+}
